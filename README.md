@@ -1,9 +1,9 @@
 # React Stock App
 
-![stockapp](photo.img/stockapp1.PNG)
+![stockapp](photo.img/stockphoto)
 
-### `Search Bar`
-![stockapp](photo.img/stockapp2.PNG)
+### Search Bar
+![stockapp](photo.img/stockphoto2.PNG)
 
 
 # Getting Started with Create React App
