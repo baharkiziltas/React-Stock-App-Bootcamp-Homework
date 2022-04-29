@@ -13,13 +13,13 @@
     },
     {
         "id": 855,
-        "name": "ASİNPİRİNE Tablet 500 mg 20 tabletlik  ambalaj",
+        "name": "NASİNPİRİNE Tablet 500 mg 20 tabletlik  ambalaj",
         "barcode": "8699508010578",
         "stock": 10
     },
     {
         "id": 851,
-        "name": "ASİNPİRİNE Tablet 300 mg 100 tabletlik  ambalaj",
+        "name": "KASİNPİRİNE Tablet 300 mg 100 tabletlik  ambalaj",
         "barcode": "8699508010370",
         "stock": 18
     },
@@ -31,7 +31,7 @@
     },
     {
         "id": 3634,
-        "name": "ATASPİN Tablet 80 mg 20 tabletlik ambalaj",
+        "name": "KATASPİN Tablet 80 mg 20 tabletlik ambalaj",
         "barcode": "8699560010042",
         "stock": 7
     },
@@ -61,25 +61,25 @@
     },
     {
         "id": 10604,
-        "name": "ECOPİRİN Tablet 300 mg 30 tabletlik ambalaj",
+        "name": "DECOPİRİN Tablet 300 mg 30 tabletlik ambalaj",
         "barcode": "8699514040033",
         "stock": 30
     },
     {
         "id": 1263,
-        "name": "ECOPİRİN Tablet 300 mg 20 tabletlik ambalaj",
+        "name": "LECOPİRİN Tablet 300 mg 20 tabletlik ambalaj",
         "barcode": "8699514130444",
         "stock": 4
     },
     {
         "id": 1264,
-        "name": "ECOPİRİN Tablet 500 mg 20 tabletlik ambalaj",
+        "name": "SECOPİRİN Tablet 500 mg 20 tabletlik ambalaj",
         "barcode": "8699514130451",
         "stock": 45
     },
     {
         "id": 1267,
-        "name": "ECOPİRİN Tablet 150 mg 20 tabletlik ambalaj",
+        "name": "YECOPİRİN Tablet 150 mg 20 tabletlik ambalaj",
         "barcode": "8699514139508",
         "stock": 28
     },
